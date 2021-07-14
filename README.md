@@ -40,7 +40,7 @@ oneliner updates  for readme
 git add . && git commit -m "update Readme.md"
 ```
 ```bash
-git remote add origin https://github.com/c17hawke/simple-dvc-demo.git
+git remote add originhttps://github.com/swarnava-96/Wine-Quality--ML-OPS.git
 git branch -M main
 git push origin main
 ```
